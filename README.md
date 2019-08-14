@@ -2,9 +2,9 @@
 
 I - Deployment
 
-  - [./heroku.md](Heroku- Deploying Scheduler-api)
-  - [./circleci.md](CircleCi - Continuous Deployment and Delivery)
-  - [.netlify](Netlify - Deployment of the client)
+  - [Heroku- Deploying Scheduler-api](./heroku.md)
+  - [CircleCi - Continuous Deployment and Delivery](./circleci.md)
+  - [Netlify - Deployment of the client](.netlify)
 
 II - Class Components
 
